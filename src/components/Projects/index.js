@@ -40,7 +40,7 @@ class Projects extends Component {
       </div>
     ));
 
-    return <div className="ui two cards">{projectCards}</div>;
+    return <div className="ui two stackable cards">{projectCards}</div>;
   }
 }
 

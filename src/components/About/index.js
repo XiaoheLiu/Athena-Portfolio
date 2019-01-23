@@ -6,7 +6,7 @@ import "./About.css";
 class About extends Component {
   render() {
     return (
-      <div className="ui grid">
+      <div className="ui stackable grid">
         <div className="six wide column" id="leftColumn">
           <img className="ui small circular image" src={AthenaProfilePic} />
           <a
