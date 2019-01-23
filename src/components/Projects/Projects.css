@@ -1,0 +1,9 @@
+.meta {
+  margin-top: 20px;
+}
+
+.meta .stacks {
+  padding: 1px 1px;
+  color: white;
+  background-color: rgba(0, 128, 128, 0.822);
+}

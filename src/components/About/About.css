@@ -1,0 +1,26 @@
+#leftColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#leftColumn .button {
+  margin: 30px auto;
+}
+
+#rightColumn {
+  font-size: 1.2em;
+}
+
+#rightColumn u {
+  text-decoration: underline;
+  font-weight: bold;
+  color: teal;
+}
+
+#rightColumn a {
+  text-decoration: underline;
+  font-weight: bold;
+  color: black;
+}

@@ -1,0 +1,8 @@
+#NavBar {
+  margin: 10vh auto;
+  max-width: 600px;
+}
+
+#NavBar .nameDisplay {
+  font-size: 1.5em;
+}
