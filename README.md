@@ -1,6 +1,6 @@
 # Athena Liu
 
-#### [XiaoheLiu.github.io](http://XiaoheLiu.github.io)
+#### [XiaoheLiu.github.io/Athena-Portfolio](https://xiaoheliu.github.io/Athena-Portfolio/)
 
 Hi, I'm Athena Liu! I'm a PhD student and a web developer based in Vancouver, Canada.
 
