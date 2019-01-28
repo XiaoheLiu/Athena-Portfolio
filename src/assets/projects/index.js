@@ -15,7 +15,7 @@ export const projects = [
   {
     title: "Country Flag Guessing Game",
     description:
-      "An educative game that asks the player to guess which country the displayed country flag corresponds to. The country data are fetched from the REST country API.",
+      "An educational game that asks the player to guess which country the displayed country flag corresponds to. The country data are fetched from the REST country API.",
     stacks: ["ReactJS", "Axios"],
     image: Country,
     github: "https://github.com/XiaoheLiu/country-guessing-game",

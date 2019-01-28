@@ -12,7 +12,7 @@ class About extends Component {
           <a
             className="ui teal basic button"
             target="_blank"
-            href={links.linkedin}
+            href={links.resume}
           >
             Resumé
           </a>
