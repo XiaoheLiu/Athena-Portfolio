@@ -10,7 +10,8 @@ export const projects = [
       '"Baizi" means "100 letters" in Chinese. This full stack minimalist journal app promps user to write a 100-letter journal everyday - not one letter more, not one letter less.',
     stacks: ["ReactJS", "Redux", "NodeJS", "ExpressJS", "MongoDB"],
     image: Baizi,
-    github: "https://github.com/XiaoheLiu/baizi-journal-front-end"
+    github: "https://github.com/XiaoheLiu/baizi-journal-front-end",
+    demo: "https://baizi.herokuapp.com"
   },
   {
     title: "Country Flag Guessing Game",
