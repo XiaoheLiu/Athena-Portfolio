@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Athena-Portfolio/precache-manifest.08b1b7929d5913f4be4ec0698d855d07.js"
+  "/Athena-Portfolio/precache-manifest.214f5b51ec5f18e62c0219a9b43ec91b.js"
 );
 
 workbox.clientsClaim();
