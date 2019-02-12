@@ -13,8 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "now-build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -24,9 +23,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "http://XiaoheLiu.github.io/Athena-Portfolio",
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  ]
 }
